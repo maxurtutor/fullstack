@@ -1,0 +1,5 @@
+rootProject.name = 'fullstack'
+include 'jvm'
+include 'common'
+include 'js'
+
